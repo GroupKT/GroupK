@@ -1,7 +1,7 @@
 Nhà phát hành:GNU(GNU Genera; Public License) là giấy phép phần mềm tự do phổ biến nhất
-Quyền lợi: được sao chép và phân phối chương trình, quyền được yêu cầu trả phí cho việc phân phối đó quyền được thay đổi chương trình để sử dụng cho mục đích cá nhân. quyền được phân phối bản đã được thay đổi đó.
+###Quyền lợi: được sao chép và phân phối chương trình, quyền được yêu cầu trả phí cho việc phân phối đó quyền được thay đổi chương trình để sử dụng cho mục đích cá nhân. quyền được phân phối bản đã được thay đổi đó.
 
-Nghĩa vụ: Khi sao chép và phân phối chương trình, phải đính kèm các thông báo về bản quyền gốc và không nhận bảo hành (trừ trường hợp có văn bản thêm về quy định bảo hành.)
+###Nghĩa vụ: Khi sao chép và phân phối chương trình, phải đính kèm các thông báo về bản quyền gốc và không nhận bảo hành (trừ trường hợp có văn bản thêm về quy định bảo hành.)
 
 Khi phân phối bản đã được thay đổi bởi bản thân, phải chú thích rõ đó là bản đã được thay đổi, các thành phần được thay đổi, và áp dụng giấy phép GNU cho bản đã được thay đổi đó.
 
