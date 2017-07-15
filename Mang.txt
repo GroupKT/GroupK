@@ -1,0 +1,58 @@
+interface fa0/0
+ip address 172.16.1.1 255.255.255.0
+no shut
+exit
+------------------------------------
+Lenh cau hinh ip route
+ip route 172.16.3.0 255.255.255.0 172.16.2.1
+ip route 192.168.2.0 255.255.255.0 192.168.1.1
+-------------------------------------
+Lenh cau hinh router rip
+router rip
+version 2
+network 172.16.2.0
+network 192.168.1.0 
+(khai bao tat ca dia chi ip ket noi truc tiep )
+--------------------------------------
+Lenh cau hinh ospf
+router ospf 1
+network 172.16.2.0 0.0.0.255 area 0
+(khai bao tat ca dia chi ip ket noi truc tiep )
+--------------------------------------
+Lenh cau hinh eigrp
+router EIGRP 50
+no auto-summary
+network 172.16.3.0 0.0.0.255 
+(khai bao tat ca cac mang ket noi truc tiep )
+---------------------------------------
+Lenh cau hinh vlan 
+(vao switch cau hinh )
+vlan 10
+(khai bao vlan tuy de )
+name (ten vlan )
+interface fa0/1(cong de ket noi vlan )
+switchport modde access
+switchport access vlan10
+(neu nhieu cong ket noi voi vlan )
+interface range fa0/1-5
+switchport modde access
+switchport access vlan10
+----------------------------------------
+Lenh cau hinh trunk
+(khai bao trunk trong cong ket noi voi router)
+interface fa0/20
+switchport mode trunk 
+
+
+/////////////////////////////////////////////////
+
+/24         0
+/25           128
+/26             192
+/27          224
+/28         240
+/29  sub 248
+/28  sub 240
+/30   sub 252
+/31   sub 254
+/32         255
