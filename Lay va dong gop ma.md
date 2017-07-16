@@ -1,4 +1,4 @@
-# Lưu repo của người khác 
+# Lưu Kho của người khác 
 
 Trong quá trình làm, bạn có thể sẽ thấy rất nhiều nguồn source code khác nhau, để mình có thể sử dụng được repo người khác thì cần phải clone repo của họ về máy của mình, cách thực hiện rất đơn giản, đó là chọn fork
 
@@ -11,7 +11,7 @@ Ví dụ mình muốn fork thư viện DHT của Adafruit thì:
 ![gggc](https://user-images.githubusercontent.com/27818800/28244265-62c7e744-6a10-11e7-83ef-a8de2a6f6668.jpg)
 
 
-# Gửi code và cùng contribute một dự án
+# Gửi code và cùng Thực hiện một dự án
 Để đóng góp cùng phát triển source code cho ai đó (mình lấy ví dụ ở đây với thư viện DHT của Adafruit) thì mình cần thực hiện theo các bước sau:
 
 Bước 1: Fork source code của họ như mình đã nói trên
