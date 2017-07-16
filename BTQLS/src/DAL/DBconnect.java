@@ -17,7 +17,7 @@ public class DBconnect {
     
   private  static Connection con;
     
-    public static Connection getConnect(){
+    public static Connection getConnect(){   // chuỗi kết nối java vs database
         try {
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
             con = DriverManager.getConnection("jdbc:sqlserver://DESKTOP-PU4P78V:1433;databaseName=QLTV;Username=sa;Password = 29111995");
