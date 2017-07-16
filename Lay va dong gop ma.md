@@ -21,7 +21,8 @@ Bước 2: Clone project đã fork về máy tính của mình thông qua Github
 Bước 3: Cập nhật và đồng bộ thông tin mới nhất từ repositories  gốc bằng lệnh
 
 
-```sh <br> git remote add upstream https://github.com/GroupKT/GroupK.git <br>
+```sh
+<br> git remote add upstream https://github.com/GroupKT/GroupK.git <br>
 <br> git fetch upstream <br>
 <br> git checkout master <br>
 <br> git merge upstream/master <br>
@@ -37,11 +38,9 @@ Bước 4: Commit và sync lên github
 Hoặc bạn có thể đóng góp cho tôi tại [đây](https://github.com/GroupKT/GroupK/issues)
 
 
-Coi như một số bước cơ bản làm quen đã xong, nếu các bạn muốn tìm hiểu sâu hơn có thể xem thêm hướng dẫn từ github https://guides.github.com/
-
 Nhấn vào [đây](https://codeload.github.com/anhviettran2503/QLDT/zip/master) để tải xuống mã nguồn
-Hoạc liên hệ: SĐT 0967846012
-              EMAIL: buithaotruong11@gmail.com
+            <br> - Hoạc liên hệ: SĐT 0967846012<br>
+            <br> - EMAIL: buithaotruong11@gmail.com<br>
 
 # Cach Lấy Mã Nguồn Trên Java
 Bươc 1: Mở phần mềm Neatbean vào team->git->clone
