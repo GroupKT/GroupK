@@ -1,15 +1,17 @@
 # GroupK
-## ĐỀ TÀI XÂY DỰNG ỨNG DỤNG QUẢN LÝ HỌC SINH
+## ĐỀ TÀI XÂY DỰNG ỨNG DỤNG QUẢN LÝ Nhà Sách Kim Đồng
 
 #### Giới thiệu
-Công nghệ thông tin là một trong những ngành khoa học ngày càng được quan tâm và sử dụng rộng rãi trong mọi lĩnh vực. Với ưu điểm mạnh có thể ứng dụng được nhiều trong cuộc sống thì công nghệ thông tin đã giúp cho công việc quản lý ngày càng dễ dàng hơn. Để quản lý một công việc cụ thể thì người quản lý phải thực hiện nhiều công việc. Nhờ có các phần mềm thì công việc đó trở nên đơn giản hơn nhiều đặc biệt trong giáo dục.
+Công nghệ thông tin là một trong những ngành khoa học ngày càng được quan tâm và sử dụng rộng rãi trong mọi lĩnh vực. Với ưu điểm mạnh có thể ứng dụng được nhiều trong cuộc sống thì công nghệ thông tin đã giúp cho công việc quản lý ngày càng dễ dàng hơn. Để quản lý một công việc cụ thể thì người quản lý phải thực hiện nhiều công việc. Nhờ có các phần mềm thì công việc đó trở nên đơn giản hơn nhiều đặc biệt trong Quản Lý.
 #
 #### Mô tả dự án
-Trong thời đại chi thức hiện nay, việc nâng cao chất lượng giáo dục là nhiệm vụ quan trọng và hàng đầu. Song song với việc đó là việc quản lý học sinh, để quản lý học sinh thì người quản lý cần liên tục cập nhật thông tin học sinh như: mã học sinh, giới tính, năm sinh, quê, … Công việc đó làm người quản lý vất vả.
+Hiện nay số lượng sách tại các trường càng ngày càng tăng, để quản lý sách một cách tốt nhất về: thông tin sách, thông tin người đọc, …  đòi hỏi có một phần mềm quản  lý sách để công việc quản lý sách dễ dàng hơn và hiệu quả hơn.
+Qua thời gian thực tế trên thì thấy được việc nhập dữ liệu lưu trữ sách của sách thường được nhập bằng cách sử dụng phần mềm Excel để quản lí nên còn gặp nhiều khó khăn như :
+–	Những thủ tục nhập dữ liệu cho sách vẫn còn thực hiện thủ công và tốn nhiều thời gian cho người nhập.
+–	Khó khăn trong việc tìm kiếm, kiểm tra thông tin sách.
 
-Khi người dùng đăng nhập hệ thống, họ có thể thêm, sửa, xóa các dữ liệu trên hệ thống:
-- Thông tin giáo viên
-- THông tin học sinh
-- Thông tin điểm học sinh, thêm, sửa xóa...
-- Thêm học sinh, xóa học sinh, sửa thông tin học sinh...
-- Thêm môn học, lớp học...
+### Mục Tiêu Dự Án
+Cần có một phần mềm quản lý sách của các sách có các chức năng như  thêm , chỉnh sửa , xóa , in thông tin, tìm kiếm , có sự tương tác giữa người quản lý khách hàng giúp khách có thể theo dõi tình hình mượn trả sách.
+
+### Mục Tiêu Phát Triển Tương Lai
+Hiện nay thời kì công nghệ tt rất phát triển và có tiềm năng phát triển hơn nữa ;với mục đích nghiên cứu,học tập,đóng góp cho cộng đồng mã nguồn chung ,để có thể hoàn thiện sản phẩm khắc phục lỗi sản phẩm với mục đích hoàn thiện hơn nữa trong tương lai.
