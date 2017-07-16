@@ -1,5 +1,18 @@
-# Tài Liệu Cho Người Sử Dụng 
-**Giao diện Đăng Nhập**
+# Tài Liệu Cho Người Sử Dụng Cuối
+## Giới Thiệu Chương Trình
+Phần mềm được tạo ra nhằm mục đích giúp quản lý thư viện sách tiện lợi dễ dàng hơn giữa người quản lý và khách hàng .
+## Cấu trúc chương trình
+<ul>
+<li> Thông tin sách<li>
+<li> Thông tin phiếu mượn sách<li>
+<li> thông tin khách hàng<li>
+</ul>
+
+## Hướng dẫn sử dụng chương trình
+
+** Giao diện Đăng Nhập **
+
+Đăng nhập tài khoản mật khẩu.
 
 ![dang nhap](https://user-images.githubusercontent.com/27818800/28241703-9b87de2e-69c3-11e7-9955-40bbc17544a1.png)
 
