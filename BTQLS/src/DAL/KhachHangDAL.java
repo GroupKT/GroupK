@@ -20,7 +20,7 @@ public class KhachHangDAL {
     public static ResultSet rs;
     
  
-    // viet ham thuc hieen insert
+    // them moi khac hang
      public static void InsertKhachHang(KhachHang kh) {
         String sql = "insert into KHACH_HANG values(?,?,?,?,?)";
         try {
@@ -38,6 +38,7 @@ public class KhachHangDAL {
         }
     }
     
+    // sua thong tin khach
     public boolean UpdateKhachHang(KhachHang kh) {
         try {
             ps = DBconnect.getConnect().prepareStatement("UPDATE KHACH_HANG SET  Ten_Khach_hang = ?,"
@@ -51,21 +52,8 @@ public class KhachHangDAL {
         } catch (Exception e) {
             return false;
         }
-    }
-    public boolean UpKhachHang(KhachHang kh){
-                try {
-            ps = DBconnect.getConnect().prepareStatement("UPDATE KHACH_HANG SET  Ten_Khach_hang = ?,"
-                    + "Ngay_sinh = ?, Dia_chi = ?, Phone = ? where Ma_Khach_hang = ?");
-            ps.setString(1, kh.getMaKH());
-            ps.setString(2, kh.getTenKH());
-            ps.setDate(3, kh.getBirth());
-            ps.setString(4, kh.getDiaChi());
-            ps.setString(5, kh.getPhone());
-            return ps.executeUpdate() >0;
-        } catch (Exception e) {
-            return false;
-        }
-    }
+    }    
+    // xoa khach hang
     public boolean DeleteKhachHang(String maKH) {
         try {
             ps = DBconnect.getConnect().prepareStatement("DELETE FROM KHACH_HANG WHERE Ma_Khach_hang = ?");
