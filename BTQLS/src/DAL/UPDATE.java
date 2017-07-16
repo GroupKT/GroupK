@@ -23,6 +23,8 @@ public class UPDATE {
     public static ResultSet rs = null;
     public static Connection con = DBconnect.getConnect();
     
+    
+    // load du lieu len bang
     public static void LoadData (String sql,JTable tb) {
         try{
             ps = con.prepareStatement(sql);
