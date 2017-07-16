@@ -27,6 +27,8 @@ public class PhieuMuonDAL {
             return null;
         }
     }
+    
+    //Them phieu muon
      public static void InsertPhieu(PhieuMuon p) {
         String sql = "insert into PHIEU_MUON values(?,?,?,?,?)";
         try {
@@ -44,6 +46,7 @@ public class PhieuMuonDAL {
         }
     }
     
+    //sua thong tin phieu muon
     public boolean UpdatePhieu(PhieuMuon p) {
         try {
             ps = DBconnect.getConnect().prepareStatement("UPDATE PHIEU_MUON SET  Ma_Khach_hang = ?, Ma_Sach = ?,"
@@ -60,7 +63,7 @@ public class PhieuMuonDAL {
             
         }
     }
-    
+    //xoa phieu muon
     public boolean DeletePhieu(String ms) {
         try {
             ps = DBconnect.getConnect().prepareStatement("DELETE FROM PHIEU_MUON WHERE Ma_Phieu_muon = ?");
