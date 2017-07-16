@@ -1,5 +1,5 @@
 # GroupK
-## ĐỀ TÀI XÂY DỰNG ỨNG DỤNG QUẢN LÝ Nhà Sách Kim Đồng
+## ĐỀ TÀI XÂY DỰNG ỨNG DỤNG QUẢN LÝ Nhà Sách
 
 #### Giới thiệu
 Công nghệ thông tin là một trong những ngành khoa học ngày càng được quan tâm và sử dụng rộng rãi trong mọi lĩnh vực. Với ưu điểm mạnh có thể ứng dụng được nhiều trong cuộc sống thì công nghệ thông tin đã giúp cho công việc quản lý ngày càng dễ dàng hơn. Để quản lý một công việc cụ thể thì người quản lý phải thực hiện nhiều công việc. Nhờ có các phần mềm thì công việc đó trở nên đơn giản hơn nhiều đặc biệt trong Quản Lý.
