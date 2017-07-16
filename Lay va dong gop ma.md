@@ -70,4 +70,4 @@ Bước 3: Vào Favorites (Window -> Favorites)
 Bước 4: Nếu muốn đóng gì vào project ở phần Favorites click phải chuột -> Chon Git -> Commit...
 - Bạn có thể sửa và bổ sung mã nguồn ngay trên mã nguồn vừa lấy xuống ngay trong Favorites và thực hiện bắt đầu từ bước 4.
 
-- Vậy là bạn đãn đóng góp xong mã nguồn của mình lên kho github.
+- Vậy là bạn đãn đóng góp xong mã nguồn của mình lên kho github. 
