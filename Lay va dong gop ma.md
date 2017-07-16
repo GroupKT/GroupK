@@ -1,6 +1,6 @@
 # Lưu Kho 
 
-Trong quá trình làm, bạn có thể sẽ thấy rất nhiều nguồn source code khác nhau, để có thể sử dụng được repo người khác thì cần phải clone repo của họ về máy của mình, cách thực hiện rất đơn giản, đó là chọn fork.
+Trong quá trình làm, bạn có thể sẽ thấy rất nhiều nguồn source code khác nhau, để có thể sử dụng được repositories người khác thì cần phải clone repositories của họ về máy của mình, cách thực hiện rất đơn giản, đó là chọn fork.
 
 Ví dụ:
 
