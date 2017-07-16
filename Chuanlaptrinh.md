@@ -15,19 +15,26 @@
               <li> Tập hợp nhiều đối tượng nên được đặt tên ở số nhiều.</li> 
               <li> 	Tên chỉ được phép bắt đầu bằng (A-Z, a-z , $ , …). </li>
   </ul>
- <br> 2.Quy tắc đặt tên biến<br>
-  <ul>
+ <br> 1. Quy tắc đặt tên biếnn<br>
+- Các quy tắc
+   <ul>
   <li>	Khi khai báo biến phải sử dụng comment để nêu rõ tác dụng và nội dung biến sẽ chứa.</li>
   <li>Tên biến phải bắt đầu bằng một ký tự in thường, các từ tiếp theo được bắt đầu bằng một ký tự in hoa.</li>
   <li>Tên biến và hàm chữ cái đầu tiền viết thường, chữ cái đầu tiên của từ ghép viết hoa.</li>
   <li>Không sử dụng dấu cách (space) khi đặt tên.</li>
   <li>Tên các biến cục bộ của lớp nên kết thúc bằng hậu tố “_”.</li>
   </ul>
-  <br> 3.Comment trong quá trình viết Code<br>
-  -Comment là những dòng ghi chú những đoạn code để ghi nhớ nó
-  -Cấu Trúc
+  
+ <br> 3. Comment trong quá trình viết Code<br>
+- Comment là những dòng ghi chú những đoạn code để ghi nhớ nó
+- Cấu trúc
+   <ul>
   <li>Cùng hàng sau dấu //……………… </li>
   <li>Nhiều hàng /* ………. */</li>
-  <li>•	Các bạn nên sử dụng comment để giải thích rõ logic, tiện theo dõi và ghi nhớ nó.</li>
+  <li>Các bạn nên sử dụng comment để giải thích rõ logic, tiện theo dõi và ghi nhớ nó.</li>
 
   </ul>
+   
+  
+ 
+ 
