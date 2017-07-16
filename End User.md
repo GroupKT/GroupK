@@ -2,11 +2,11 @@
 ## Giới Thiệu Chương Trình
 Phần mềm được tạo ra nhằm mục đích giúp quản lý thư viện sách tiện lợi dễ dàng hơn giữa người quản lý và khách hàng .
 ## Cấu trúc chương trình
-<ul>
-<li> Thông tin sách<li>
-<li> Thông tin phiếu mượn sách<li>
-<li> thông tin khách hàng<li>
-</ul>
+
+- Thông tin sách
+- Thông tin phiếu mượn sách
+- thông tin khách hàng
+
 
 ## Hướng dẫn sử dụng chương trình
 
