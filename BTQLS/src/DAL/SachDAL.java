@@ -27,7 +27,7 @@ public class SachDAL {
             return null;
         }
     }
-    
+    // Them moi sach
      public static void InsertSach(Sach s) {
         String sql = "insert into SACH values(?,?,?,?,?,?)";
         try {
@@ -46,6 +46,7 @@ public class SachDAL {
         }
     }
     
+    // sua thong tin sach
     public boolean UpdateSach(Sach s) {
         try {
             ps = DBconnect.getConnect().prepareStatement("UPDATE SACH SET  Ten_Sach = ?, Ten_Tac_gia = ?,"
