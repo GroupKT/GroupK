@@ -1,6 +1,6 @@
 # Chuẩn Lập Trình
 ### **Cách tổ chức và lưu tên file**
-<br> I. Quy ước về cách đặt tên<br>
+<br> 1. Quy ước về cách đặt tên<br>
 - Jav có phân biệt chữ thường và chữ hoa
   <ul>
   <li>Tên không được đặt trùng với keywords của java. </li>
@@ -15,7 +15,7 @@
               <li> Tập hợp nhiều đối tượng nên được đặt tên ở số nhiều.</li> 
               <li> 	Tên chỉ được phép bắt đầu bằng (A-Z, a-z , $ , …). </li>
   </ul>
-### **Quy tắc đặt tên biến file**
+ <br> 2.Quy tắc đặt tên biến<br>
   <ul>
   <li>	Khi khai báo biến phải sử dụng comment để nêu rõ tác dụng và nội dung biến sẽ chứa.</li>
   <li>Tên biến phải bắt đầu bằng một ký tự in thường, các từ tiếp theo được bắt đầu bằng một ký tự in hoa.</li>
@@ -23,9 +23,9 @@
   <li>Không sử dụng dấu cách (space) khi đặt tên.</li>
   <li>Tên các biến cục bộ của lớp nên kết thúc bằng hậu tố “_”.</li>
   </ul>
-  ### **Quy tắc đặt tên biến file**
+  <br> 3.Comment trong quá trình viết Code<br>
   -Comment là những dòng ghi chú những đoạn code để ghi nhớ nó
- ** Cấu Trúc**
+  -Cấu Trúc
   <li>Cùng hàng sau dấu //……………… </li>
   <li>Nhiều hàng /* ………. */</li>
   <li>•	Các bạn nên sử dụng comment để giải thích rõ logic, tiện theo dõi và ghi nhớ nó.</li>
