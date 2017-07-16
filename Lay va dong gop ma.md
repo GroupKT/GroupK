@@ -35,10 +35,10 @@ Bước 3: Cập nhật và đồng bộ thông tin mới nhất từ repositori
 
 Bước 4: Commit và sync lên github
 
-Hoặc bạn có thể đóng góp cho tôi tại [đây](https://github.com/GroupKT/GroupK/issues)
+Hoặc bạn có thể đóng góp cho tôi tại [Vào đây](https://github.com/GroupKT/GroupK/issues)
 
 
-Nhấn vào [đây](https://codeload.github.com/anhviettran2503/QLDT/zip/master) để tải xuống mã nguồn
+Nhấn vào  để tải xuống mã nguồn [Vào đây](https://github.com/GroupKT/GroupK/archive/master.zip)
             <br> - Hoạc liên hệ: SĐT 0967846012<br>
             <br> - EMAIL: buithaotruong11@gmail.com<br>
 
