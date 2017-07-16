@@ -43,7 +43,7 @@ public class QuanLyGUI extends javax.swing.JFrame {
     /**
      * Creates new form KhachHangGUI
      */
-    public QuanLyGUI() {
+    public QuanLyGUI() {            // Gọi hàm đổ dữ liệu lên các bảng
         initComponents();
         this.setLocation(100, 10);
         UPDATE.LoadData(sqlSach, tbSach);
