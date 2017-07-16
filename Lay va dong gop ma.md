@@ -12,9 +12,6 @@ Ví dụ mình muốn fork thư viện DHT của Adafruit thì:
 
 
 # Gửi code và cùng contribute một dự án
-
-![g2](https://user-images.githubusercontent.com/27818800/28244278-e73d028e-6a10-11e7-94b1-7a433ec3b90f.png)
-
 Để đóng góp cùng phát triển source code cho ai đó (mình lấy ví dụ ở đây với thư viện DHT của Adafruit) thì mình cần thực hiện theo các bước sau:
 
 Bước 1: Fork source code của họ như mình đã nói trên
@@ -44,3 +41,34 @@ Bước 5: Thực hiện pull request lên thư mục gốc, chờ chủ repo th
 ![g4](https://user-images.githubusercontent.com/27818800/28244301-9b3d8128-6a11-11e7-8f66-f1f750c9021b.jpg)
 
 Coi như một số bước cơ bản làm quen đã xong, nếu các bạn muốn tìm hiểu sâu hơn có thể xem thêm hướng dẫn từ github https://guides.github.com/
+
+
+# Lấy Mã Nguồn Trên Java
+Bươc 1: Mở phần mềm Neatbean vào team->git->clone
+
+![vcvcvcd](https://user-images.githubusercontent.com/27818800/28245793-5cb880d4-6a38-11e7-9f22-ffddd8963754.png)
+
+- Copy và dán địa chỉ kho cần lấy mả nguồn vào Repository URL
+
+- Tiếp theo nhập thông tinh User và Password Github của mình
+
+- Chọn đường dẫn để lưu dữ liệu Clone into 
+Bước 2: Nhấn Next -> Tích chon vào nhánh muốn lấy mã nguồn 
+
+![vcvcvx](https://user-images.githubusercontent.com/27818800/28245779-15e1c594-6a38-11e7-9f54-c56c59506ddf.png)
+
+- Bạn có thể sữa lại nơi lưu và tên file nếu muốn -> Finish
+
+![ccccvvvv](https://user-images.githubusercontent.com/27818800/28245804-91d88804-6a38-11e7-9727-72c4ce07f496.png)
+
+# Đóng góp mã nguồn
+Bước 1: Copy nhưng gì muốn đóng góp vào file vừa lấy xuống xuống.
+
+Bước 2: Vào netbean.
+
+Bước 3: Vào Favorites (Window -> Favorites)
+
+Bước 4: Nếu muốn đóng gì vào project ở phần Favorites click phải chuột -> Chon Git -> Commit...
+- Bạn có thể sửa và bổ sung mã nguồn ngay trên mã nguồn vừa lấy xuống ngay trong Favorites và thực hiện bắt đầu từ bước 4.
+
+- Vậy là bạn đãn đóng góp xong mã nguồn của mình lên kho github.
