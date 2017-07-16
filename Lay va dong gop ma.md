@@ -1,49 +1,49 @@
-# Lưu Kho của người khác 
+# Lưu Kho 
 
-Trong quá trình làm, bạn có thể sẽ thấy rất nhiều nguồn source code khác nhau, để mình có thể sử dụng được repo người khác thì cần phải clone repo của họ về máy của mình, cách thực hiện rất đơn giản, đó là chọn fork
+Trong quá trình làm, bạn có thể sẽ thấy rất nhiều nguồn source code khác nhau, để có thể sử dụng được repo người khác thì cần phải clone repo của họ về máy của mình, cách thực hiện rất đơn giản, đó là chọn fork.
 
-Ví dụ mình muốn fork thư viện DHT của Adafruit thì:
+Ví dụ:
 
-<li>Vào trang github https://github.com/adafruit/DHT-sensor-library</li>
-<li>Chon fork bên góc phải, github sẽ tự lưu repo này vào trong tài khoản github của chúng ta</li>
+<li>Vào trang github https://github.com/GroupKT/GroupK</li>
+<li>Chon fork bên góc phải, github sẽ tự lưu repositories  này vào trong tài khoản github của bạn</li>
 
 
 ![gggc](https://user-images.githubusercontent.com/27818800/28244265-62c7e744-6a10-11e7-83ef-a8de2a6f6668.jpg)
 
 
 # Gửi code và cùng Thực hiện một dự án
-Để đóng góp cùng phát triển source code cho ai đó (mình lấy ví dụ ở đây với thư viện DHT của Adafruit) thì mình cần thực hiện theo các bước sau:
+Để đóng góp cùng phát triển source code cho tôi thì mình cần thực hiện theo các bước sau:
 
-Bước 1: Fork source code của họ như mình đã nói trên
+Bước 1: Fork source code của họ như tôi đã nói trên
 
 Bước 2: Clone project đã fork về máy tính của mình thông qua Github Desktop
 
-Bước 3: Cập nhật và đồng bộ thông tin mới nhất từ repo gốc bằng lệnh
+Bước 3: Cập nhật và đồng bộ thông tin mới nhất từ repositories  gốc bằng lệnh
 
-git remote add upstream https://github.com/xxxx.git
-git fetch upstream
-git checkout master
-git merge upstream/master
-Ví dụ mình muốn cập nhật mới nhất từ thư viện DHT thì mình sẽ thay chỗ xxx.git bằng
 
-git remote add upstream https://github.com/adafruit/DHT-sensor-library.git
+```sh <br> git remote add upstream https://github.com/GroupKT/GroupK.git <br>
+<br> git fetch upstream <br>
+<br> git checkout master <br>
+<br> git merge upstream/master <br>
+```
+
 Địa chỉ git bạn có thể copy từ mục Clone or Download
-![g3](https://user-images.githubusercontent.com/27818800/28244289-21005c14-6a11-11e7-96d5-9c8b75fe1c32.jpg)
 
 *Lưu ý*
-*Luôn thực hiện thao tác này trước khi bạn commit code lên, mục đích là để trách xung đột với repo gốc*
-Bước 3: Chỉnh sửa và tối ưu code, ví dụ như thêm các chức năng vào thư viện
+*Luôn thực hiện thao tác này trước khi bạn commit code lên, mục đích là để trách xung đột với repositories gốc*
 
-Bước 4: Commit và sync lên github, lúc này những thay đổi của mình chỉ được cập nhật lên tài khoản github của cá nhân, chưa có sự thay đổi trên repo gốc (Adafruit)
+Bước 4: Commit và sync lên github
 
-Bước 5: Thực hiện pull request lên thư mục gốc, chờ chủ repo thảo luận, sau khi thấy hợp tình hợp lý thì họ sẽ merge code cũng như bổ sung các tính năng mới cập nhật của bạn vào code, đồng thời đưa bạn vào danh sách contributors luôn.
+Hoặc bạn có thể đóng góp cho tôi tại [đây](https://github.com/GroupKT/GroupK/issues)
 
-![g4](https://user-images.githubusercontent.com/27818800/28244301-9b3d8128-6a11-11e7-8f66-f1f750c9021b.jpg)
 
 Coi như một số bước cơ bản làm quen đã xong, nếu các bạn muốn tìm hiểu sâu hơn có thể xem thêm hướng dẫn từ github https://guides.github.com/
 
+Nhấn vào [đây](https://codeload.github.com/anhviettran2503/QLDT/zip/master) để tải xuống mã nguồn
+Hoạc liên hệ: SĐT 0967846012
+              EMAIL: buithaotruong11@gmail.com
 
-# Lấy Mã Nguồn Trên Java
+# Cach Lấy Mã Nguồn Trên Java
 Bươc 1: Mở phần mềm Neatbean vào team->git->clone
 
 ![vcvcvcd](https://user-images.githubusercontent.com/27818800/28245793-5cb880d4-6a38-11e7-9f22-ffddd8963754.png)
