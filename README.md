@@ -39,3 +39,7 @@ Thông tin tổ chức mã nguồn [Tại đây](https://github.com/GroupKT/Grou
 #
 ### Kênh truyền thông
 [Đọc Thêm](https://www.facebook.com/Nh%C3%A0-S%C3%A1ch-Kim-%C4%90%E1%BB%93ng-438016783240286/)
+#
+### Tin Tức và Bản Phân Phối
+[Đọc Thêm](https://www.facebook.com/Nh%C3%A0-S%C3%A1ch-Kim-%C4%90%E1%BB%93ng-438016783240286/)
+
