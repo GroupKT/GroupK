@@ -1,8 +1,9 @@
 # Chuẩn Lập Trình
 ### **Cách tổ chức và lưu tên file**
 <br> 1. Quy ước về cách đặt tên<br>
-- Jav có phân biệt chữ thường và chữ hoa
+- Các Quy ước
   <ul>
+  <li>Jav có phân biệt chữ thường và chữ hoa. </li>
   <li>Tên không được đặt trùng với keywords của java. </li>
   <li>	Tên class viết hoa chữ cái đầu tiên của các từ ghép. Tên trùng với tên file. </li>
    <li>	Đặt tên cho các gói (package) nên bằng chữ in thường toàn bộ.  </li>
@@ -23,15 +24,17 @@
   <li>Tên biến và hàm chữ cái đầu tiền viết thường, chữ cái đầu tiên của từ ghép viết hoa.</li>
   <li>Không sử dụng dấu cách (space) khi đặt tên.</li>
   <li>Tên các biến cục bộ của lớp nên kết thúc bằng hậu tố “_”.</li>
+  <li><li>Không sử dụng dấu cách (space) khi đặt tên.</li>
   </ul>
   
  <br> 3. Comment trong quá trình viết Code<br>
-- Comment là những dòng ghi chú những đoạn code để ghi nhớ nó
+- Đối với tất cả các loại ngôn ngữ, comment trong quá trình viết code rất quan trọng, nó sẽ mô tả được các thông tin và điều mà người lập trình cần lưu ý đối với người đọc và chỉnh sửa code của họ sau này.
 - Cấu trúc
    <ul>
   <li>Cùng hàng sau dấu //……………… </li>
   <li>Nhiều hàng /* ………. */</li>
   <li>Các bạn nên sử dụng comment để giải thích rõ logic, tiện theo dõi và ghi nhớ nó.</li>
+   <li>Tất cả nội dung trong comment bao gồm : Biến, Function, Class, Text. Tất cả đều không có tác dụng trong phần comment và không có tác dụng, không hiển thị trong quá trình xử lý..</li>
 
   </ul>
    
