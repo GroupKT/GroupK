@@ -5,7 +5,8 @@
   <ul>
   <li>Jav có phân biệt chữ thường và chữ hoa. </li>
   <li>Tên không được đặt trùng với keywords của java. </li>
-  <li>	Tên class viết hoa chữ cái đầu tiên của các từ ghép. Tên trùng với tên file. </li>
+  <li>	Tên class viết hoa chữ cái đầu tiên của các từ ghép.</li>
+   <li>Không đặt tên trùng với tên file. </li>
    <li>	Đặt tên cho các gói (package) nên bằng chữ in thường toàn bộ.  </li>
      <li>Tên cho các kiểu dữ liệu phải là danh từ, và được viết rõ ràng bởi các từ bắt đầu bằng 1 ký tự in hoa. </li>
        <li>Tên hằng phải đặt toàn bộ là chữ in hoa, các từ tách biệt nhau bởi ký tự gạch dưới “_” .</li>
