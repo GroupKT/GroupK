@@ -2,10 +2,9 @@
 
 Trong quá trình làm, bạn có thể sẽ thấy rất nhiều nguồn source code khác nhau, để có thể sử dụng được repositories người khác thì cần phải clone repositories của họ về máy của mình, cách thực hiện rất đơn giản, đó là chọn fork.
 
-Ví dụ:
 
 <li>Vào trang github https://github.com/GroupKT/GroupK</li>
-<li>Chon fork bên góc phải, github sẽ tự lưu repositories  này vào trong tài khoản github của bạn</li>
+<li>Chon fork bên góc phải, github sẽ tự lưu repositories của tôi vào trong tài khoản github của bạn</li>
 
 
 ![gggc](https://user-images.githubusercontent.com/27818800/28244265-62c7e744-6a10-11e7-83ef-a8de2a6f6668.jpg)
