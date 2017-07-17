@@ -9,6 +9,7 @@ Phần mềm được tạo ra nhằm mục đích giúp quản lý thư viện 
 
 
 ## Hướng dẫn sử dụng chương trình
+- Cài Sql và Attach Cơ sở dữ liệu QLTV vô database.
 
 #### Giao diện đăng nhập
 
