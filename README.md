@@ -15,6 +15,7 @@ Cần có một phần mềm quản lý sách của các sách có các chức n
 #
 ### Mục Tiêu Phát Triển Tương Lai
 Hiện nay thời kì công nghệ tt rất phát triển và có tiềm năng phát triển hơn nữa ;với mục đích nghiên cứu,học tập,đóng góp cho cộng đồng mã nguồn chung ,để có thể hoàn thiện sản phẩm khắc phục lỗi sản phẩm với mục đích hoàn thiện hơn nữa trong tương lai.
+- Xây dựng ứng dụng trên điện thoại và website
 #
 ### Giấy Phép
 Thông Tin Giấy Phép [Tại đây](https://github.com/GroupKT/GroupK/blob/master/LICENSE)
