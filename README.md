@@ -1,19 +1,46 @@
 # GroupK
-## ĐỀ TÀI XÂY DỰNG WEBSITE QUẢN LÝ HỌC SINH
+## ĐỀ TÀI XÂY DỰNG ỨNG DỤNG QUẢN LÝ Nhà Sách
 
 #### Giới thiệu
-Chúng ta đang sống trong thời đại Công Nghệ Thông Tin phát triển mạnh mẽ. Công Nghệ Thông Tin đóng vai trò quan trọng hầu như trong mọi lĩnh vực: kinh tế, khoa học, y tế, giáo dục, đáp ứng ngày càng nhiều nhu cầu của con người. Đặc biệt khi Internet ra đời, nó đáp ứng sự trao đổi thông tin, học hỏi kiến thức, nghiên cứu, ứng dụng một cách phong phú, đa dạng và nhanh chóng. Mạng Internet đã tạo ra một môi trường hoạt động toàn cầu cho tất cả mọi người tham gia, gần như xóa đi biên giới giữa các quốc gia, thu ngắn khoảng cách địa lý. Việc sử dụng mạng Internet ứng dụng vào quản lý mang lại nhiều thành quả to lớn , chính vì vậy tôi chọn đề tài xây dựng bài toán : “ Quản lý học sinh trên mạng tại một trường phổ thông trung học theo phương thức lớp học cố định học sinh di động” nhằm mục đích mang những tiện lợi cho người dùng , giúp nhà trường , thầy cô , phụ huynh , học sinh có thể làm việc mọi lúc mọi nơi chỉ cần có chiếc máy tính nối mạng . Ngoài ra bài toán còn mang đến một mô hình quản lý mới.
+Công nghệ thông tin là một trong những ngành khoa học ngày càng được quan tâm và sử dụng rộng rãi trong mọi lĩnh vực. Với ưu điểm mạnh có thể ứng dụng được nhiều trong cuộc sống thì công nghệ thông tin đã giúp cho công việc quản lý ngày càng dễ dàng hơn. Để quản lý một công việc cụ thể thì người quản lý phải thực hiện nhiều công việc. Nhờ có các phần mềm thì công việc đó trở nên đơn giản hơn nhiều đặc biệt trong Quản Lý.
 #
-#### Đặc Tả
-Khi người dùng đăng nhập hệ thống với quyền admin, họ có thể thêm, sửa, xóa các dữ liệu trên hệ thống:
-- Thông tin giáo viên
-- THông tin học sinh
-- Thông tin điểm học sinh, thêm, sửa xóa...
-- Thêm học sinh, xóa học sinh, sửa thông tin học sinh...
-- Thêm môn học, lớp học...
+#### Mô tả dự án
+Hiện nay số lượng sách tại các trường càng ngày càng tăng, để quản lý sách một cách tốt nhất về: thông tin sách, thông tin người đọc, …  đòi hỏi có một phần mềm quản  lý sách để công việc quản lý sách dễ dàng hơn và hiệu quả hơn.
+Qua thời gian thực tế trên thì thấy được việc nhập dữ liệu lưu trữ sách của sách thường được nhập bằng cách sử dụng phần mềm Excel để quản lí nên còn gặp nhiều khó khăn như :
+–	Những thủ tục nhập dữ liệu cho sách vẫn còn thực hiện thủ công và tốn nhiều thời gian cho người nhập.
+–	Khó khăn trong việc tìm kiếm, kiểm tra thông tin sách.
 #
-Khi người dùng đăng nhập hệ thống với quyền thành viên
-- Xem thông tin giáo viên...
-- Xem Thông tin học sinh...
-- Xem điểm học sinh...
-- Xem lớp học, môn học...
+### Mục Tiêu Dự Án
+Cần có một phần mềm quản lý sách của các sách có các chức năng như  thêm , chỉnh sửa , xóa , in thông tin, tìm kiếm , có sự tương tác giữa người quản lý khách hàng giúp khách có thể theo dõi tình hình mượn trả sách.
+#
+### Mục Tiêu Phát Triển Tương Lai
+Hiện nay thời kì công nghệ tt rất phát triển và có tiềm năng phát triển hơn nữa ;với mục đích nghiên cứu,học tập,đóng góp cho cộng đồng mã nguồn chung ,để có thể hoàn thiện sản phẩm khắc phục lỗi sản phẩm với mục đích hoàn thiện hơn nữa trong tương lai.
+- Xây dựng ứng dụng trên điện thoại và website
+#
+### Giấy Phép
+Thông Tin Giấy Phép [Tại đây](https://github.com/GroupKT/GroupK/blob/master/LICENSE)
+#
+### Thông Tin Tổ Chức Mã Nguồn
+Thông tin tổ chức mã nguồn [Tại đây](https://github.com/GroupKT/GroupK/blob/master/ThongTinToChucManguon.md)
+#
+### Chuẩn lập trình 
+[Đọc Thêm](https://github.com/GroupKT/GroupK/blob/master/Chuanlaptrinh.md)
+#
+### Tài liệu người dùng cuối
+[Đọc Thêm](https://github.com/GroupKT/GroupK/blob/master/End%20User.md)
+#
+### Tài liệu người phát triển
+[Đọc Thêm](https://github.com/GroupKT/GroupK/blob/master/TaiLieuNhaPhatTrien.md)
+#
+### Tài liệu thiết kế
+[Đọc Thêm](https://github.com/GroupKT/GroupK/blob/master/TaiLieuThietKe.md)
+#
+### Cách lấy và đóng góp mã nguồn
+[Đọc Thêm](https://github.com/GroupKT/GroupK/blob/master/Lay%20va%20dong%20gop%20ma.md)
+#
+### Kênh truyền thông
+[Đọc Thêm](https://www.facebook.com/Nh%C3%A0-S%C3%A1ch-Kim-%C4%90%E1%BB%93ng-438016783240286/)
+#
+### Tin Tức và Bản Phân Phối
+[Đọc Thêm](https://www.facebook.com/Nh%C3%A0-S%C3%A1ch-Kim-%C4%90%E1%BB%93ng-438016783240286/)
+
